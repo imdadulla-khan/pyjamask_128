@@ -12,6 +12,8 @@ Step 3: In the first terminal, run the server script using the command:
 
 
 python3 server.py
+
+
 The server will start listening on the specified port mentioned in the code.
 
 Step 4: In the second terminal, run the client script using the command:
